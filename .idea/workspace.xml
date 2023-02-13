@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a6467f0-ef0a-4fda-843e-3f8784e26976" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/BasicBlock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/BasicBlock.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/CFGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/CFNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/Context.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/Context.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/Decompiler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/Decompiler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/IntermediateCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/IntermediateCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m01/Parser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m01/Parser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m02/UDM.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m02/UDM.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m03/Generator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hr/fer/decotlin/m03/Generator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/decotlin.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/decotlin.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/out/MainSample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/out/MainSample.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L2PIYRhVlhpqxzv6rebpTAv7eM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="format.on.save" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Kotlin.DecompilerKt (1)">
+    <configuration name="ArithmeticsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samples.ArithmeticsKt" />
+      <module name="decotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecompilerKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.decotlin.DecompilerKt" />
+      <module name="decotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecompilerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decompiler.DecompilerKt" />
+      <module name="decotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="decotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="samples.MainSampleKt" />
+      <module name="decotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.DecompilerKt (1)" />
+        <item itemvalue="Kotlin.ArithmeticsKt" />
+        <item itemvalue="Kotlin.MainSampleKt" />
+        <item itemvalue="Kotlin.DecompilerKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a6467f0-ef0a-4fda-843e-3f8784e26976" name="Changes" comment="" />
+      <created>1675066127541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675066127541</updated>
+      <workItem from="1675261888132" duration="1235000" />
+      <workItem from="1675267593667" duration="580000" />
+      <workItem from="1675268198277" duration="493000" />
+      <workItem from="1675268732481" duration="11731000" />
+      <workItem from="1675593164066" duration="7207000" />
+      <workItem from="1675703117114" duration="4909000" />
+      <workItem from="1676018421306" duration="54116000" />
+      <workItem from="1676250399202" duration="2789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
