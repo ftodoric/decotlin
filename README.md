@@ -1,11 +1,15 @@
 # Simple Kotlin Decompiler
 
-Project uses Oracle OpenJDK 19.0.2.
+The project uses Oracle OpenJDK 19.0.2.
 
 `/src/main/kotlin/samples` - samples of Kotlin code for bytecode testing purposes  
 `decotlin.config` - initial configurations of the decompiler program
 
-## Running Samples
+## Running samples
 
 Each sample can be run at their entry point file.
-Then, sample is compiled and their binary class file is located at `decotlin/target/classes/samples/`.
+Then, the sample is compiled and it's binary class file is located at `decotlin/target/classes/samples/`.
+<br/>
+<br/>
+<br/>
+_Remnant of a distant and dystopian past..._
